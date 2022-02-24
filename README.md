@@ -9,4 +9,5 @@ Python Keylogger made by THETRIPOL89
 - 💎 One of the best KeyLoggers for free
 - 🐍 Only python code
 - 🪟 Get top app's name
+- 💡 Faster than light
 ##
