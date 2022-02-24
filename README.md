@@ -22,7 +22,7 @@
 2. `python Start.py`
 ###### **Run as an executable (7 MB)**
 1. `pip install pyinstaller`
-2. `pyinstaller --onefile --noconsole --icon=icon.ico Start.py`
+2. `pyinstaller --onefile --noconsole Start.py`
 3. `dist\Start.exe`
 
 ##### System arguments
