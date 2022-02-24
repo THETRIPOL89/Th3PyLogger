@@ -26,7 +26,7 @@
 3. `dist\Start.exe`
 
 ##### System arguments
-`Start.py mode [encrypt]`
+`Start.py mode`
 - **modes**:
   - **local:** store the logs in a local txt file. Filename is a MD5 hash of the current date (YYYY-Mon-DD).
   - **debug:** write to the console.
