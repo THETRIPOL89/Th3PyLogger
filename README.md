@@ -14,8 +14,8 @@
 ### Getting started
 
 #### System requirements
-- MS Windows (tested on 10). TODO: test Linux (requires sudo) and macOS support;
-- [Python 3](https://www.python.org/downloads/) (tested on v. 3.7.4).
+- MS Windows (tested on 10 & 11). TODO: test Linux (requires sudo) and macOS support;
+- [Python 3](https://www.python.org/downloads/) (tested on v. 3.9).
 
 ###### **Run as a Python script**
 1. `pip install requirements.txt` (alternatively `python -m pip ...`)
