@@ -1,4 +1,5 @@
-# Th3PyLogger
+Th3PyLogger
+====================
 
 ## ✨ Features
 - 🕶️ FUD
